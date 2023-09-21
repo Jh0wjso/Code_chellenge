@@ -1,0 +1,7 @@
+.headerBG{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 207.5vh;
+    background-color: #252F3D;
+}
